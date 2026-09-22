@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+bonus_users.json
+.DS_Store
+.env
+*.log
